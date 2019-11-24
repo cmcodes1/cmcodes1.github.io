@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+![Profile Photo](E:\Softwares\Cm\Documents)
 
-You can use the [editor on GitHub](https://github.com/Cm-Champ/Cm-Champ.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## PROFILE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A professional in the field of IT since the date of birth, who has a great affinity towards everything that's technical; fueled with lots of optimism and self-motivation. Wrote a piece of code 5 years ago, it was fun; so that's what I have been doing till date.
 
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Amrapali Group of Institutes
+(2017 - 2020)
+- Class Representative
+- Pursuing Bachelor of Computer Applications
+- Won KDMM 2018 (Inter-College Quiz Competition)
+- Ist Runner Up in Sandhaan Codex 2019 (Inter-College Competitive Coding Competition)
 
-```markdown
-Syntax highlighted code block
+Doon Public School
+(2008 - 2016)
+Secured first division in High School (X) & Senior Secondary (XII)
 
-# Header 1
-## Header 2
-### Header 3
+### SKILLS
 
-- Bulleted
-- List
+Languages known
+- C
+- C++
+- C#
+- Java
+- HTML
+- CSS
+- JS
+- SQL
 
-1. Numbered
-2. List
+Soft skills
+- Optimism
+- Leadership
+- Analytical Skill
+- Public Speaking
+- Commercial Awareness
 
-**Bold** and _Italic_ and `Code` text
+### CERTIFICATIONS
 
-[Link](url) and ![Image](src)
-```
+- Programming in C
+- Android Apps Development
+- Advanced Office Automation
+- Internet of Things with Python
+- National Youth Parliament Festival
+- Cloud Computing & the Virtual World
+- Object Oriented Programming using C++
+- Building Awareness on Intellectual Property Rights
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### CONTACT
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cm-Champ/Cm-Champ.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+9012913225
+[E-mail ID] (chandramohan.pandey2015@gmail.com)
+[Instagram Page] (instagram.com/competitivecoding)
+[LinkedIn Profile] (linkedin.com/in/cmpandey)
+[GitHub Profile] (github.com/Cm-Champ)
