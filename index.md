@@ -47,8 +47,8 @@ Soft skills
 
 ### CONTACT
 
-:arrow_right:9012913225
-:arrow_right:(E-mail ID) [chandramohan.pandey2015@gmail.com]
-:arrow_right:(Instagram Page) [www.instagram.com/competitivecoding]
-:arrow_right:(LinkedIn Profile) [www.linkedin.com/in/cmpandey]
-:arrow_right:(GitHub Profile) [github.com/Cm-Champ]
+:arrow_right: 9012913225
+:arrow_right: [E-mail ID] (chandramohan.pandey2015@gmail.com)
+:arrow_right: [Instagram Page] (www.instagram.com/competitivecoding)
+:arrow_right: [LinkedIn Profile] (www.linkedin.com/in/cmpandey)
+:arrow_right: [GitHub Profile] (www.github.com/Cm-Champ)
