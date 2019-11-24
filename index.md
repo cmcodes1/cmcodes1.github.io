@@ -1,8 +1,7 @@
-![Profile Photo]()
-
 ## PROFILE
 
 A professional in the field of IT since the date of birth, who has a great affinity towards everything that's technical; fueled with lots of optimism and self-motivation. Wrote a piece of code 5 years ago, it was fun; so that's what I have been doing till date.
+
 
 ## EDUCATION
 
@@ -14,6 +13,7 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 **Doon Public School (2008 - 2016)**
 -Secured first division in High School (X) & Senior Secondary (XII)
+
 
 ## SKILLS
 
@@ -27,12 +27,14 @@ Languages known
 - JS
 - SQL
 
+
 Soft skills
 - Optimism
 - Leadership
 - Analytical Skill
 - Public Speaking
 - Commercial Awareness
+
 
 ## CERTIFICATIONS
 
@@ -45,10 +47,11 @@ Soft skills
 - Object Oriented Programming using C++
 - Building Awareness on Intellectual Property Rights
 
+
 ## CONTACT
 
 :arrow_right: 9012913225
-:arrow_right: chandramohan.pandey2015@gmail.com
-:arrow_right: www.instagram.com/competitivecoding
-:arrow_right: www.linkedin.com/in/cmpandey
-:arrow_right: www.github.com/Cm-Champ
+:arrow_right: (chandramohan.pandey2015@gmail.com)
+:arrow_right: (www.instagram.com/competitivecoding)
+:arrow_right: (www.linkedin.com/in/cmpandey)
+:arrow_right: (www.github.com/Cm-Champ)
