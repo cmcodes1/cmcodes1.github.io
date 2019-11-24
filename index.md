@@ -1,20 +1,18 @@
-![Profile Photo](E:\Softwares\Cm\Documents)
+![Profile Photo]()
 
-## PROFILE
+## Profile
 
 A professional in the field of IT since the date of birth, who has a great affinity towards everything that's technical; fueled with lots of optimism and self-motivation. Wrote a piece of code 5 years ago, it was fun; so that's what I have been doing till date.
 
 ### EDUCATION
 
-Amrapali Group of Institutes
-(2017 - 2020)
+Amrapali Group of Institutes (2017 - 2020)
 - Class Representative
 - Pursuing Bachelor of Computer Applications
 - Won KDMM 2018 (Inter-College Quiz Competition)
 - Ist Runner Up in Sandhaan Codex 2019 (Inter-College Competitive Coding Competition)
 
-Doon Public School
-(2008 - 2016)
+Doon Public School (2008 - 2016)
 Secured first division in High School (X) & Senior Secondary (XII)
 
 ### SKILLS
@@ -50,7 +48,7 @@ Soft skills
 ### CONTACT
 
 9012913225
-[E-mail ID] (chandramohan.pandey2015@gmail.com)
-[Instagram Page] (instagram.com/competitivecoding)
-[LinkedIn Profile] (linkedin.com/in/cmpandey)
-[GitHub Profile] (github.com/Cm-Champ)
+(E-mail ID) [chandramohan.pandey2015@gmail.com]
+(Instagram Page) [instagram.com/competitivecoding]
+(LinkedIn Profile) [linkedin.com/in/cmpandey]
+(GitHub Profile) [github.com/Cm-Champ]
