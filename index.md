@@ -17,7 +17,7 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ## SKILLS
 
-Languages known
+**Languages known**
 - C
 - C++
 - C#
@@ -27,8 +27,7 @@ Languages known
 - JS
 - SQL
 
-
-Soft skills
+**Soft skills**
 - Optimism
 - Leadership
 - Analytical Skill
@@ -50,8 +49,12 @@ Soft skills
 
 ## CONTACT
 
-:arrow_right: 9012913225
-:arrow_right: (chandramohan.pandey2015@gmail.com)
-:arrow_right: (www.instagram.com/competitivecoding)
-:arrow_right: (www.linkedin.com/in/cmpandey)
-:arrow_right: (www.github.com/Cm-Champ)
+➡️ 9012913225
+
+➡️ chandramohan.pandey2015@gmail.com
+
+➡️ www.instagram.com/competitivecoding
+
+➡️ www.linkedin.com/in/cmpandey
+
+➡️ www.github.com/Cm-Champ
