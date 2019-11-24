@@ -49,12 +49,12 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ## CONTACT
 
-➡️  9012913225
+➡️   9012913225
 
-➡️  chandramohan.pandey2015@gmail.com
+➡️   chandramohan.pandey2015@gmail.com
 
-➡️  (www.instagram.com/competitivecoding)
+➡️   https://instagram.com/competitivecoding
 
-➡️  (www.linkedin.com/in/cmpandey)
+➡️   https://linkedin.com/in/cmpandey
 
-➡️  (www.github.com/Cm-Champ)
+➡️   https://github.com/Cm-Champ
