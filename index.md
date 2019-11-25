@@ -54,7 +54,7 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ➡️   chandramohan.pandey2015@gmail.com
 
-➡️   www.instagram.com/competitivecoding
+➡️   www.instagram.com/cmcodes
 
 ➡️   www.linkedin.com/in/cmpandey
 
