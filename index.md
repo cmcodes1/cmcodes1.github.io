@@ -12,6 +12,7 @@ A professional in the field of IT since the date of birth, who has a great affin
 - Ist Runner Up in Sandhaan Codex 2019 (Inter-College Competitive Coding Competition)
 
 **Doon Public School (2008 - 2016)**
+
 -Secured first division in High School (X) & Senior Secondary (XII)
 
 
@@ -53,8 +54,8 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ➡️   chandramohan.pandey2015@gmail.com
 
-➡️   https://instagram.com/competitivecoding
+➡️   instagram.com/competitivecoding
 
-➡️   https://linkedin.com/in/cmpandey
+➡️   linkedin.com/in/cmpandey
 
-➡️   https://github.com/Cm-Champ
+➡️   github.com/Cm-Champ
