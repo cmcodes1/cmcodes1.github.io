@@ -13,7 +13,7 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 **Doon Public School (2008 - 2016)**
 
--Secured first division in High School (X) & Senior Secondary (XII)
+- Secured first division in High School (X) & Senior Secondary (XII)
 
 
 ## SKILLS
