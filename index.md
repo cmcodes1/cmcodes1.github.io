@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="photo_png.png">
 ![](photo_png.png =250x250)
 </p>
 
