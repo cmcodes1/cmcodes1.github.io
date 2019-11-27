@@ -1,4 +1,6 @@
-![](photo_png.png)
+<p align="center">
+![](photo_png.png = 250x250)
+</p>
 
 ## PROFILE
 
