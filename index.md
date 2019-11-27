@@ -1,3 +1,5 @@
+![](photo_png.png)
+
 ## PROFILE
 
 A professional in the field of IT since the date of birth, who has a great affinity towards everything that's technical; fueled with lots of optimism and self-motivation. Wrote a piece of code 5 years ago, it was fun; so that's what I have been doing till date.
