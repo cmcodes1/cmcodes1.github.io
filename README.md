@@ -1,1 +1,1 @@
-![My Resume ](Resume_png.png)
+![My Resume](Resume_png.png)
