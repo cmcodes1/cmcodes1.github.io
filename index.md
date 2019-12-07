@@ -58,8 +58,8 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ➡️   chandramohan.pandey2015@gmail.com
 
-➡️   www.instagram.com/cmcodes
+➡️   instagram.com/cmcodes
 
-➡️   www.linkedin.com/in/cmpandey
+➡️   linkedin.com/in/cmpandey
 
-➡️   www.github.com/Cm-Champ
+➡️   github.com/Cm-Champ
