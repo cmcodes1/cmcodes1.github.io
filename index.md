@@ -56,13 +56,8 @@ A professional in the field of IT since the date of birth, who has a great affin
 ## CONTACT
 
 - 9012913225
-
 - [E-mail](mailto:chandramohan.pandey2015@gmail.com)
-
 - [Instagram](https://instagram.com/cmcodes)
-
 - [Twitter](https://twitter.com/cmcodes1)
-
 - [LinkedIn](https://linkedin.com/in/cmcodes)
-
 - [GitHub](https://github.com/cmcodes1)
