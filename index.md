@@ -57,12 +57,12 @@ A professional in the field of IT since the date of birth, who has a great affin
 
 ➡️   9012913225
 
-➡️   chandramohan.pandey2015@gmail.com
+➡️   [E-mail](mailto:chandramohan.pandey2015@gmail.com)
 
-➡️   www.instagram.com/cmcodes
+➡️   [Instagram](https://instagram.com/cmcodes)
 
-➡️   www.twitter.com/cmcodes1
+➡️   [Twitter](https://twitter.com/cmcodes1)
 
-➡️   www.linkedin.com/in/cmcodes
+➡️   [LinkedIn](https://linkedin.com/in/cmcodes)
 
-➡️   www.github.com/cmcodes1
+➡️   [GitHub](https://github.com/cmcodes1)
