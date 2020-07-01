@@ -4,7 +4,7 @@ body {
     font-size: 15px;
     font-family: Roboto, sans-serif;
     font-weight: 400;
-    color: #777;
+    color: #666;
 }
 h1,
 h2,
@@ -613,7 +613,7 @@ button:focus {
 .causes_item .causes_text p {
     font-size: 14px;
     line-height: 24px;
-    color: #777;
+    color: #666;
     font-weight: 300;
     margin-bottom: 0;
 }
@@ -653,7 +653,7 @@ button:focus {
     transition: all 0.3s linear;
 }
 .single-recent-blog-post .details .sec_h4:hover {
-    color: #777;
+    color: #666;
 }
 .single-recent-blog-post .date {
     font-size: 14px;
@@ -744,14 +744,14 @@ button:focus {
     color: #000;
 }
 .blog_info .post_tag a:hover {
-    color: #777;
+    color: #666;
 }
 .blog_info .post_tag a.active {
     color: #008bcc;
 }
 .blog_info .blog_meta li a {
     font: 300 14px/20px Roboto, sans-serif;
-    color: #777;
+    color: #666;
     vertical-align: middle;
     padding-bottom: 12px;
     display: inline-block;
@@ -817,7 +817,7 @@ button:focus {
     line-height: 29px;
     width: 100%;
     font-weight: 300;
-    color: #777;
+    color: #666;
     padding-left: 20px;
     border-radius: 45px;
     z-index: 0;
@@ -833,22 +833,22 @@ button:focus {
     text-indent: 20px;
 }
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
-    color: #777;
+    color: #666;
     text-transform: uppercase;
     font-size: 12px;
 }
 .blog_right_sidebar .search_widget .input-group .form-control:-moz-placeholder {
-    color: #777;
+    color: #666;
     text-transform: uppercase;
     font-size: 12px;
 }
 .blog_right_sidebar .search_widget .input-group .form-control::-moz-placeholder {
-    color: #777;
+    color: #666;
     text-transform: uppercase;
     font-size: 12px;
 }
 .blog_right_sidebar .search_widget .input-group .form-control::-webkit-input-placeholder {
-    color: #777;
+    color: #666;
     text-transform: uppercase;
     font-size: 12px;
 }
@@ -931,7 +931,7 @@ button:focus {
 .blog_right_sidebar .post_category_widget .cat-list li a {
     font-size: 14px;
     line-height: 20px;
-    color: #777;
+    color: #666;
 }
 .blog_right_sidebar .post_category_widget .cat-list li a p {
     margin-bottom: 0;
@@ -1091,7 +1091,7 @@ button:focus {
     box-shadow: -20.84px 21.58px 30px 0 rgba(176, 176, 176, 0.1);
     font-size: 14px;
     line-height: 24px;
-    color: #777;
+    color: #666;
     font-style: italic;
 }
 .single-post-area .arrow {
@@ -1234,7 +1234,7 @@ button:focus {
     margin-bottom: 13px;
 }
 .comments-area .comment {
-    color: #777;
+    color: #666;
     margin-bottom: 0;
 }
 .comments-area .btn-reply {
@@ -1293,7 +1293,7 @@ button:focus {
     border-radius: 0;
     width: 100%;
     font-size: 14px;
-    color: #777;
+    color: #666;
     border: 1px solid transparent;
 }
 .comment-form .form-control:focus {
@@ -1306,19 +1306,19 @@ button:focus {
 }
 .comment-form ::-webkit-input-placeholder {
     font-size: 13px;
-    color: #777;
+    color: #666;
 }
 .comment-form ::-moz-placeholder {
     font-size: 13px;
-    color: #777;
+    color: #666;
 }
 .comment-form :-ms-input-placeholder {
     font-size: 13px;
-    color: #777;
+    color: #666;
 }
 .comment-form :-moz-placeholder {
     font-size: 13px;
-    color: #777;
+    color: #666;
 }
 .mapBox {
     height: 420px;
@@ -1714,7 +1714,7 @@ h6 {
 .typography h4,
 .typography h5,
 .typography h6 {
-    color: #777;
+    color: #666;
 }
 .button-area .border-top-generic {
     padding: 70px 15px;
@@ -2058,7 +2058,7 @@ h6 {
 }
 .ordered-list li span {
     font-weight: 300;
-    color: #777;
+    color: #666;
 }
 .ordered-list-alpha li {
     margin-left: 30px;
@@ -2069,7 +2069,7 @@ h6 {
 }
 .ordered-list-alpha li span {
     font-weight: 300;
-    color: #777;
+    color: #666;
 }
 .ordered-list-roman li {
     margin-left: 30px;
@@ -2080,7 +2080,7 @@ h6 {
 }
 .ordered-list-roman li span {
     font-weight: 300;
-    color: #777;
+    color: #666;
 }
 .single-input {
     display: block;
