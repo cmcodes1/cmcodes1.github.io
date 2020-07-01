@@ -3011,6 +3011,8 @@ h6 {
 @media (max-width: 575px) {
     .testi_item {
         padding: 30px 20px;
+        height: 387px;
+        margin-bottom: 20px;
     }
 }
 .testi_item img {
@@ -3041,11 +3043,12 @@ h6 {
 }
 .subscription_box {
     background: url(../img/subscribe-bg.png) no-repeat center;
-    padding: 150px 0;
+    padding: 70px 0;
+    border-radius: 10px;
 }
-@media (max-width: 767px) {
+@media (max-width: 575px) {
     .subscription_box {
-        padding: 50px 20px;
+        padding: 40px 10px;
     }
 }
 .subscription_box h2 {
@@ -3097,6 +3100,7 @@ h6 {
 }
 .subscription_box .primary-btn {
     margin-left: 10px;
+    margin-top: 10px;
     background: #fff;
     text-transform: uppercase;
     color: #222;
