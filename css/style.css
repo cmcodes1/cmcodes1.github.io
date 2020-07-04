@@ -399,11 +399,11 @@ button:focus {
 }
 .home_banner_area .banner_inner .banner_content h3:after {
     content: "";
-    width: 410px;
+    width: 380px;
     height: 2px;
     position: absolute;
     top: 50%;
-    left: 23%;
+    left: 10%;
     background: #000;
 }
 @media (max-width: 575px) {
