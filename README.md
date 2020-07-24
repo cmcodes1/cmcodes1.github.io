@@ -1,4 +1,4 @@
-<h1 align="center">😄 cmcodes</h1>
+<h1 align="center">😄 cmcodes1.github.io</h1>
 <p align="center">
 	Here's my portfolio! <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
