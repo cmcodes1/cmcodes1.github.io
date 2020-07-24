@@ -7,6 +7,7 @@
   	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/>
 	<img src="https://img.shields.io/badge/Library-jQuery-0769ad.svg" alt="Library-jQuery"/>
   	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/> <br/><br/><br/>
+	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" />
 </p>
 
 <h1 align="center"><a href="https://cmcodes1.github.io/">click here to visit</a></h1>
