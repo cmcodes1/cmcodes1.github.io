@@ -1,4 +1,4 @@
-<h1 align="center">😄 cmcodes</h1>
+<h1 align="center">😄 cmcodes1.github.io</h1>
 <p align="center">
 	Here's my portfolio! <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
@@ -6,7 +6,8 @@
 	<img src="https://img.shields.io/badge/Repo_Size-11_MB-orange.svg" alt="Repo_Size-11_MB"/>
   	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/>
 	<img src="https://img.shields.io/badge/Library-jQuery-0769ad.svg" alt="Library-jQuery"/>
-  	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/> <br/><br/><br/>
+  	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/>
+	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" />
 </p>
 
 <h1 align="center"><a href="https://cmcodes1.github.io/">click here to visit</a></h1>
