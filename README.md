@@ -10,7 +10,7 @@
 	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" />
 </p>
 
-<h1 align="center"><a href="https://cmcodes1.github.io/">click here to visit</a></h1>
+<h1 align="center"><a href="https://cmcodes1.github.io/">CLICK HERE TO VISIT</a></h1>
 
 <h3> Browser Compatibility </h3>
 <table>
