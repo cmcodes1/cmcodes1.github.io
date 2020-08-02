@@ -17,6 +17,7 @@ h6 {
   font-weight: 500;
   color: #000;
 }
+
 .list {
   list-style: none;
   margin: 0;
@@ -36,28 +37,6 @@ button:focus {
   outline: 0;
   box-shadow: none;
 }
-/* .mt-25 {
-  margin-top: 25px;
-}
-.p0 {
-  padding-left: 0;
-  padding-right: 0;
-}
-.white_bg {
-  background: #fff !important;
-}
-.mb-50 {
-  margin-bottom: 50px;
-}
-.ml-15 {
-  margin-left: 15px;
-}
-.ml-20 {
-  margin-left: 20px;
-}
-.mt-50 {
-  margin-top: 50px;
-} */
 .section_gap {
   padding: 100px 0;
 }
