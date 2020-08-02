@@ -17,14 +17,15 @@ h6 {
   font-weight: 500;
   color: #000;
 }
-
 .list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-a {
+.link {
   color: #7c2ae8;
+}
+a {
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
