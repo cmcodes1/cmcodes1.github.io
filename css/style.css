@@ -25,6 +25,17 @@ h6 {
 .link {
   color: #7c2ae8;
 }
+.header {
+  font-size: xx-large;
+  font-weight: 900;
+  color: #000;
+}
+.heading {
+  font-size: large;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #000;
+}
 a {
   text-decoration: none;
   transition: all 0.3s ease-in-out;
