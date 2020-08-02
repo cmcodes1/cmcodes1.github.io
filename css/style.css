@@ -23,6 +23,7 @@ h6 {
   padding: 0;
 }
 a {
+  color: #7c2ae8;
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
@@ -35,7 +36,7 @@ button:focus {
   outline: 0;
   box-shadow: none;
 }
-.mt-25 {
+/* .mt-25 {
   margin-top: 25px;
 }
 .p0 {
@@ -56,29 +57,13 @@ button:focus {
 }
 .mt-50 {
   margin-top: 50px;
-}
+} */
 .section_gap {
   padding: 100px 0;
 }
 @media (max-width: 1199px) {
   .section_gap {
     padding: 80px 0;
-  }
-}
-.section_gap_top {
-  padding-top: 100px;
-}
-@media (max-width: 1199px) {
-  .section_gap_top {
-    padding-top: 80px;
-  }
-}
-.section_gap_bottom {
-  padding-bottom: 100px;
-}
-@media (max-width: 1199px) {
-  .section_gap_bottom {
-    padding-bottom: 80px;
   }
 }
 .main_title {
@@ -123,32 +108,12 @@ button:focus {
   color: #fff;
   opacity: 0.6;
 }
-.blog-pagination .page-item.active .page-link,
-.blog-pagination .page-link:hover,
-.blog_right_sidebar .newsletter_widget .bbtns,
-.blog_right_sidebar .tag_cloud_widget ul li a:hover,
-.blog_right_sidebar .widget_title,
-.comments-area .btn-reply:hover,
-.gradient-bg,
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
   background: -webkit-linear-gradient(#008bcc 0, #7c2ae8 100%);
   background: -moz-linear-gradient(#008bcc 0, #7c2ae8 100%);
   background: -o-linear-gradient(#008bcc 0, #7c2ae8 100%);
   background: linear-gradient(#008bcc 0, #7c2ae8 100%);
 }
-.border-gradient {
-  border-image: -webkit-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  border-image: -moz-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  border-image: -o-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  border-image: linear-gradient(#008bcc 0, #7c2ae8 100%);
-}
-.gradient-bg2 {
-  background: -webkit-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  background: -moz-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  background: -o-linear-gradient(#008bcc 0, #7c2ae8 100%);
-  background: linear-gradient(#008bcc 0, #7c2ae8 100%);
-}
-.contact_info .info_item i,
 .gradient-color {
   background: -webkit-linear-gradient(#008bcc 0, #7c2ae8 100%);
   background: -moz-linear-gradient(#008bcc 0, #7c2ae8 100%);
