@@ -10,7 +10,7 @@
 	<h2 align="center">Preview</h2>
 	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" />
 	<h2 align="center">Lighthouse Report</h2>
-	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.PNG" />
+	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.png" />
 </p>
 
 <h1 align="center"><a href="https://cmcodes1.github.io/">CLICK HERE TO VISIT</a></h1>
