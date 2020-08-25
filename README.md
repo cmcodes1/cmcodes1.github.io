@@ -1,16 +1,16 @@
 <h1 align="center">😄 cmcodes1.github.io</h1>
 <p align="center">
-	Here's my portfolio! <br/><br/>
+	Here's my portfolio!<br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
-	<img src="https://img.shields.io/badge/Version-2.5.7-green.svg" alt="Version-2.5.7"/>
+	<img src="https://img.shields.io/badge/Version-3.0-green.svg" alt="Version-2.5.7"/>
 	<img src="https://img.shields.io/badge/Repo_Size-11_MB-orange.svg" alt="Repo_Size-11_MB"/>
 	<img src="https://img.shields.io/badge/Languages-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/>
 	<img src="https://img.shields.io/badge/Library-jQuery-0769ad.svg" alt="Library-jQuery"/>
 	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/>
 	<h2 align="center">Preview</h2>
-	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" alt="Preview" align="center"/>
+	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" alt="Preview" align="center"/></p>
 	<h2 align="center">Lighthouse Report</h2>
-	<img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.png" alt="Lighthouse Report" align="center"/>
+	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.png" alt="Lighthouse Report"/></p>
 </p>
 
 <h1 align="center"><a href="https://cmcodes1.github.io/">CLICK HERE TO VISIT</a></h1>
