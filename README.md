@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/Library-jQuery-0769ad.svg" alt="Library-jQuery"/>
 	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/>
 	<h2 align="center">Preview</h2>
-	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" alt="Preview" align="center"/></p>
+	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/preview.gif" alt="Preview"/></p>
 	<h2 align="center">Lighthouse Report</h2>
 	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.png" alt="Lighthouse Report"/></p>
 </p>
