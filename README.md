@@ -13,7 +13,7 @@
 	<p align="center"><img src="https://github.com/cmcodes1/cmcodes1.github.io/blob/master/lighthouse_report.png" alt="Lighthouse Report"/></p>
 </p>
 
-<h1>If you wanna know, how I got such got scores, head over to my blogs, where I've shared all my secrets 👇</h1>
+<h1>If you wanna know, how I got such good scores, head over to my blogs, where I've shared all my secrets 👇</h1>
 <br/>
 <h2> 👉 <a href="https://dev.to/cmcodes/my-website-now-loads-in-less-than-2-sec-here-s-how-i-did-it-hoj">My website now loads in less than 1 sec! Here's how I did it! ⚡</a></h2>
 <br/>
