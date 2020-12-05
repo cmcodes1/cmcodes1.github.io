@@ -20,7 +20,7 @@
 <h2> 👉 <a href="https://dev.to/cmcodes/how-my-portfolio-got-a-seo-score-of-100-456c">How my portfolio got a SEO score of 100 ? 😲</a></h2>
 <br/>
 
-<h1 align="center"><a href="https://cmcodes1.github.io/">CLICK HERE TO VISIT MY PORTFOLIO</a></h1>
+<h1 align="center"><a href="http://www.cmcodes.in/">CLICK HERE TO VISIT MY PORTFOLIO</a></h1>
 
 <h3> Browser Compatibility </h3>
 <table>
